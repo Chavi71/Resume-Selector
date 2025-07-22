@@ -18,16 +18,16 @@ This project uses **Linked Lists** to dynamically manage resumes and performs va
 
 ## Features
 
-- • Input candidate resume details interactively.
-- • Score resumes based on:
+- Input candidate resume details interactively.
+- Score resumes based on:
   - Skill match with job requirements
   - Project domain relevance
-- • Search:
+- Search:
   - By candidate name
   - By specific skill
-- • Rank candidates based on computed total score.
-- • Store ranked data in a text file (`record.txt`).
-- • Prevents duplicate skill/project entries.
+- Rank candidates based on computed total score.
+- Store ranked data in a text file (`record.txt`).
+- Prevents duplicate skill/project entries.
 
 ---
 
